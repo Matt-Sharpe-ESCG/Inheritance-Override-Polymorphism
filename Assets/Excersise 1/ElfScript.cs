@@ -4,8 +4,5 @@ using UnityEngine;
 
 public class ElfScript : EnemyBase
 {
-    public void Start()
-    {
-        AttackPlayer();
-    }
+
 }

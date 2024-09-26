@@ -8,8 +8,4 @@ public class WerewolfScript : EnemyBase
     {
         print("Werewolf is Attacking Player");
     }
-    void Start()
-    {
-        AttackPlayer();
-    }
 }
